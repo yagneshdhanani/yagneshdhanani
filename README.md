@@ -1,16 +1,19 @@
-## Hi there 👋
+# Yagnesh Dhanani
 
-<!--
-**yagneshdhanani/yagneshdhanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on AI workflow automation, SaaS products, API integrations, and cloud-deployed dashboards.
 
-Here are some ideas to get you started:
+## Featured Project
+### WorkflowPilot
+AI-powered workflow automation SaaS for document intake, task generation, webhook automation, and admin reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Live Demo:
+GitHub:
+Tech Stack: Next.js, Node.js, TypeScript, PostgreSQL, Redis, AWS S3, OpenAI, Docker, GitHub Actions
+
+## What I Build
+- AI workflow automation
+- SaaS dashboards
+- REST APIs and webhook systems
+- Multi-tenant applications
+- CRM/LMS/ecommerce integrations
+- Cloud-deployed MVPs
